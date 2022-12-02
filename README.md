@@ -1,6 +1,2 @@
-# Low-cost-Raman
-here are some files for constructing Low-cost-Raman-Microscope
-You can find the control code of the system in the 'Phython code.zip' file. Every one can easily realize the automation of the system using the code.
-You can found the DIY parts of the system in 'stl2.zip'. Everyone can print those parts.
-And the cost and the URL of the system can be found in 'Price_list.xlsx' file. 
-Hopefully everyone can easily replicate this system
+"Low-cost Raman microspectroscopy system"
+These files accompany our paper _TITLE_ in Journal of Selected Topics in Quantum Electronics. They provide python control code to control the bright field and Raman cameras, as well as stepper motors for auto-focusing and auto-scanning. They also provide the STL files for several 3D printed parts.
